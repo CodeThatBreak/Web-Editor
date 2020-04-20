@@ -1,0 +1,84 @@
+#editorContainer {
+    width: 100%;
+    height: 100%;
+   
+
+}
+#editor { 
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    height: auto;
+
+}
+
+#editorContainer1 {
+    width: 100%;
+    height: 100%;
+   
+
+}
+#editor1 { 
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+
+}
+
+
+#editorContainer2 {
+    width: 100%;
+    height: 100%;
+   
+
+}
+#editor2 { 
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+
+}
+
+
+
+
+    #verticalBar{
+
+         width: 20px;
+    height: 100px;
+    position: relative;
+    background-color: red;
+    display: inline-block;
+   
+        
+
+      }
+     #verticalBar1{
+
+    width: 20px;
+    height: 100px;
+    position: relative;
+    background-color: red;
+    display: inline-block;
+    float: left;
+
+
+    }
+
+
+
+#FrameContainer{
+    width: 100%;
+    height: 100%;
+}
+#iFrame{
+     width: 100%;
+    height: 100%;
+}
+
